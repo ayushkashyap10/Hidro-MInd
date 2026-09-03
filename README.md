@@ -7,6 +7,18 @@ HYDRO MIND is a smart irrigation system designed to automate plant watering usin
 The system uses an **ESP32** as the main controller and integrates with **Blynk IoT** for remote monitoring and control. Weather data is obtained through the **OpenWeather API** to help prevent unnecessary watering during rain.
 
 ---
+## 📸 Project
+
+![HYDRO MIND Prototype](images/Hydro%20Mind.jpeg)
+
+## 🔌 Components
+
+![Components](images/component.png)
+
+## 📊 Result
+
+![Result](images/Result.png)
+---
 
 ## 🚀 Features
 
